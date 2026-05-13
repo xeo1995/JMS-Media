@@ -16,7 +16,7 @@ on:
   release:
     types: [created]
 
-jobs:
+jobs:efer
   build:
     runs-on: ubuntu-latest
     outputs:
